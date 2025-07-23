@@ -1,4 +1,5 @@
 # gui-calculator
+MY VERY FIRST GUI CALCULATOR
 a beginner friendly gui calculator made with python and tkinter.it has a simple user interface and can perform basic arithmetic operations
 
 FEATURES:
